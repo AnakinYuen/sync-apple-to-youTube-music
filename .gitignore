@@ -1,3 +1,5 @@
+src/infrastructure/external_services/apple_music_playlist_fetcher.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
